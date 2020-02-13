@@ -8,4 +8,5 @@
 3. [Multiclass classification : Using Reuters dataset as example](https://github.com/ChengYiLin/Deep_Learning_using_keras/blob/master/03_Multi_class_classification.ipynb)
 4. [Regression Problem : Using Boston Housing dataset as example](https://github.com/ChengYiLin/Deep_Learning_using_keras/blob/master/04_regression_problem.ipynb)
 5. [How to Generalize Your Model](https://github.com/ChengYiLin/Deep_Learning_using_keras/blob/master/05_generalize_model.ipynb)
-6. [Comeing Soon~]()
+6. [Computer Vision - Basic](https://github.com/ChengYiLin/Deep_Learning_using_keras/blob/master/06_basic_computer_vision.ipynb)
+7. Coming Soon~~~
